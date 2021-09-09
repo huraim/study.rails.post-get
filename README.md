@@ -1,24 +1,10 @@
-# README
+# 계산기 만들기
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+form 태그 
+□ + □ = 제출 
 
-Things you may want to cover:
+1. controller
+2. action
+3. routes.rb
+4. view
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
